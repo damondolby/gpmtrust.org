@@ -1,0 +1,171 @@
+
+/* CSS Document */
+
+body{
+	background-color: #AAA;
+	text-align: center;
+	margin: 0px;
+	padding:0px;
+	font: 13px Helvetica, Geneva, Arial, SunSans-Regular, sans-serif; 
+}
+
+h1 {
+	font: 16px Helvetica, Geneva, Arial, SunSans-Regular, sans-serif; 
+	font-weight: bold;
+	margin-top: 0px;
+	margin-bottom: 15px;
+}
+
+h2 {
+	font-weight: bold;
+	font-size: 13px;
+	margin: 0px;
+}
+
+ul {
+	list-style-image: url("../images/RedDot.png");
+	font-weight: bold;
+	xtext-indent: 5px;
+	xpadding: 10px;
+	padding-bottom: 10px;	
+}
+
+p{
+	margin-top: 0px;
+}
+
+li {
+	padding: 0px 0px  10px 10px;
+}
+
+#main{
+	margin-left: auto;
+	margin-right: auto;
+	width: 780px;
+	height: 1000px;
+}
+
+#top{
+	background: url("../images/GPMCTmasthead.gif") no-repeat;
+	width: 780px;
+	height: 86px;		
+}
+
+#content{
+	background-color: #FFF;
+	width: 780px;
+	xborder: solid green 1px;
+	xpadding: 0px 0px 100px 0px;	
+	height: 100%;
+}
+
+
+#left{
+	width: 120px;
+	float: left;
+	margin: 0px 0px 0px 0px;
+	background-color: #CCC;
+	border-right-color: #F00;
+	border-right-width: thin;
+	border-right-style: solid;
+	font-family: "Courier New", Courier, monospace;
+	font-size: 12px;
+	padding-top: 20px;
+	padding-bottom: 100px;
+	xline-height: 36px;
+	height: 100%;	
+}
+#right{
+	width: 200px;
+	float: right;
+	margin: 0px 0px 0px 10px;
+	background-color: #CCC;
+	border-left-color: #F00;
+	border-left-style: solid;
+	border-left-width: thin;
+	padding: 20px 10px 100px 10px;	
+	height: 100%;
+	text-align: left;
+}
+
+#right p.italic {
+	font-style: italic;
+}
+
+#right p.italic_small {
+	font-style: italic;
+	font-size: 10px;
+}
+
+#right p span.bold {
+	font-weight: bold;
+}
+
+#right p.small {
+	margin-top: 80px;
+	font-size: 10px;
+}
+
+#middle {
+	margin: 0px 200px 0px 120px;
+	padding: 20px 20px 100px 20px;
+	height: 100%;
+	background-color: #FFF;	
+	text-align: left;
+}
+
+#newsblock {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size: 60px;
+	color: #333;
+	position: absolute;
+	width: 100px;
+	top: 5px;
+	right: 0px;
+	left: 610px;
+	float: right;
+	text-align: right;
+	line-height: 56px;
+}
+
+a { 
+	text-decoration: none; 
+}
+
+a:link {
+	color: #f00;
+}
+
+a:visited {
+	color: #f00;
+}
+
+a:hover { 
+	color: #000; 
+}
+
+ a.menulink {
+	display: block;
+	margin: 0px 0px 18px 0px;
+	padding: 0px;
+}
+
+#middle p.letter {
+	font-style: italic;
+}
+
+#middle p.letter span {
+	font-weight: bold;
+	font-style: normal;
+	font-family: "Times New Roman"; 
+}
+
+#middle p.letter span.date {
+	font-weight: normal;
+	font-style: italic;
+	font-size: 11px;
+}
+
+.highlight{
+	font-weight: bold;
+}
