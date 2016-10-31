@@ -19,7 +19,7 @@ document.write('					<span class="bold">07733 262991</span>');
 document.write('				</p>');
 document.write('				<p class="italic">');
 document.write('					email<br />');
-document.write('					<span class="bold"><a href="mailto:gpmcharitabletrust@tiscali.co.uk">gpmcharitabletrust@tiscali.co.uk</a></span>');
+document.write('					<span class="bold"><a href="mailto:keithkeys17@gmail.com">keithkeys17@gmail.com</a></span>');
 document.write('				</p>');
 document.write('				<p class="italic">');
 document.write('					or download the application form<br />');
