@@ -116,8 +116,8 @@ li {
 
 #middle_noright {
 	margin: 0px 20px 0px 120px;
-	padding: 20px 20px 100px 20px;
-	height: 100%;
+	padding: 20px 20px 0px 20px;
+	height: 90%;
 	background-color: #FFF;	
 	text-align: left;
 }
