@@ -22,7 +22,7 @@ document.write('					email<br />');
 document.write('					<span class="bold"><a href="mailto:gpmcharitabletrust82@gmail.com">gpmcharitabletrust82@gmail.com</a></span>');
 document.write('				</p>');
 document.write('				<p class="italic">');
-document.write('					or download the forms<br />');
+document.write('					or download the form<br />');
 document.write('					<span class="bold"><a href="docs/gpmtrustappform.pdf" target="_blank">Application Form</a></span>');
 document.write('				</p>');
 document.write('				<p class="italic_small">					');
