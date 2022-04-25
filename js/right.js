@@ -24,7 +24,6 @@ document.write('				</p>');
 document.write('				<p class="italic">');
 document.write('					or download the forms<br />');
 document.write('					<span class="bold"><a href="docs/gpmtrustappform.pdf" target="_blank">Application Form</a></span>');
-document.write('					<br /><span class="bold"><a href="docs/gpmtrustvoluntaryinfo.pdf" target="_blank">Voluntary Info Form</a></span>');
 document.write('				</p>');
 document.write('				<p class="italic_small">					');
 document.write('					You can print out the forms, complete and ');
